@@ -1,5 +1,7 @@
 ﻿SOLD-MARKET
 
+てすとてすと
+
 お店経営ネットワークゲームです。
 
 マニュアルは html 形式での提供です。manual ディレクトリ内の index.html を
